@@ -367,7 +367,7 @@ of.options.vanillaTitle=Setări din Vanilla
 of.options.other=Diverse…
 of.options.otherTitle=Alte setări
 
-of.options.quickInfo=Depanare rapidă...
+of.options.quickInfo=Depanare rapidă…
 of.options.quickInfoTitle=Setări meniu de depanare rapidă
 
 of.options.other.reset=Reinițializare setări video…
@@ -1018,7 +1018,7 @@ options.textureFiltering.tooltip.2=  RGSS - cel mai lent
 options.textureFiltering.tooltip.3=  Anizotropă - lent
 options.textureFiltering.tooltip.4=Îmbunătățește nivelul detaliilor în texturi mipmap. Utilizează semnificativ
 options.textureFiltering.tooltip.5=mai multă memorie GPU și e posibil să nu permită pachete de resurse HD.
-options.textureFiltering.tooltip.6=Opțiunea nu permite „Modele și texturi...“ -> „Filtru anizotropie“ și
+options.textureFiltering.tooltip.6=Opțiunea nu permite „Modele și texturi…“ -> „Filtru anizotropie“ și
 options.textureFiltering.tooltip.7=„Antialiere“.
 options.textureFiltering.tooltip.8=
 
@@ -1032,7 +1032,7 @@ options.maxAnisotropy.tooltip.6=
 options.improvedTransparency.tooltip.1=  Da - lent
 options.improvedTransparency.tooltip.2=  Nu - rapid
 options.improvedTransparency.tooltip.3=Procesare multiplă a transparenței. Poate reduce rata de cadre.
-options.improvedTransparency.tooltip.4=Opțiunea nu permite „Modele și texturi...“ -> „Antialiere“ și Pachete Shader.
+options.improvedTransparency.tooltip.4=Opțiunea nu permite „Modele și texturi…“ -> „Antialiere“ și Pachete Shader.
 options.improvedTransparency.tooltip.5=
 
 options.renderCloudsDistance.tooltip.1=  32 chunk-uri - rapid
